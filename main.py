@@ -311,7 +311,7 @@ def bst_menu(bst):
             print("Geçersiz seçim.")
 
 def main():
-    print("Veri Yapıları ve Algoritmalar Demo")
+    print("Veri Yapıları ve Algoritmalar ")
     stack = Stack()
     queue = Queue()
     linked_list = LinkedList()
